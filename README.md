@@ -1,5 +1,1 @@
-⌣ ︎ ︎𝘮𝘶𝘭𝘵𝘪𝘧𝘢𝘯𝘥𝘰𝘮 ◞ 𝘪𝘯𝘵 / 𝘤+𝘩 !
-
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f83f5005-5e75-4c52-9ac6-1723817d719d" />
-
-⌣ ︎ ︎︎ ︎𝘳𝘦𝘢𝘥 𝘴𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦 𝘧𝘰𝘳 𝘮𝘰𝘳𝘦໒꒰ྀི´ ˘ ` ꒱ྀིა 
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/e90dd1fd-13c2-4908-8a4c-f4e2035dcddd" />
