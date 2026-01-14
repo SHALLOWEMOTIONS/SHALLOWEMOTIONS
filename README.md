@@ -1,2 +1,4 @@
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/7b06d06f-f5fb-46e1-a38c-76b676068465" />
+<p align="center"><img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/92d15417-b678-4dce-abba-65522cc35934" />
 
+
+![bunnies](https://komarev.com/ghpvc/?username=SHALLOWEMOTIONS&label=bunnies&color=ffffff)
