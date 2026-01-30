@@ -1,4 +1,4 @@
-<p align="center"><img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/6e0cc66a-717d-4caa-a650-fda80e3039ce" />
+<p align="center"><img width="600" height="751" alt="image" src="https://github.com/user-attachments/assets/1a2b1ca9-7c73-4257-bbe6-1f267c46ceec" />
 
 
-![bunnies](https://komarev.com/ghpvc/?username=SHALLOWEMOTIONS&label=bunnies&color=ffffff)
+![bunnies](https://komarev.com/ghpvc/?username=SHALLOWEMOTIONS&label=bunnies&color=683C3F)
