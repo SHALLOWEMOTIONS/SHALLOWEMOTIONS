@@ -2,5 +2,5 @@
 
   
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHALLOWEMOTIONS&label=bunnies&color=683C3F" alt="rats" />
+  <img src="https://komarev.com/ghpvc/?username=SHALLOWEMOTIONS&label=rats&color=683C3F" alt="rats" />
 </p>
