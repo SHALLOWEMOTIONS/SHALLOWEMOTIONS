@@ -4,4 +4,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SHALLOWEMOTIONS&label=bunnies&color=683C3F" alt="bunnies" />
 </p>
-
