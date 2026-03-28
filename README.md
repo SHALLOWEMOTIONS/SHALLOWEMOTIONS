@@ -1,7 +1,8 @@
-<p align="center"><img width="600" height="751" alt="image" src="https://github.com/user-attachments/assets/1a2b1ca9-7c73-4257-bbe6-1f267c46ceec" />
+<p align="center"><img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/1d99b443-3c03-4472-829d-1dc55a4d1393" />
 
   
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHALLOWEMOTIONS&label=bunnies&color=683C3F" alt="bunnies" />
+  <img src="https://komarev.com/ghpvc/?username=SHALLOWEMOTIONS&label=angels&color=AD6574" alt="angels" />
 </p>
 
+<p align="center"><img width="90" height="450" alt="image" src="https://github.com/user-attachments/assets/a79ea179-d07b-4872-b6b1-e46d396cd551" />
